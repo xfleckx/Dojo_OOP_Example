@@ -210,3 +210,9 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+Dojo_OOP_Example/Paradigm.pyc
+Dojo_OOP_Example/__pycache__/AlternativeParadigm.cpython-35.pyc
+Dojo_OOP_Example/__pycache__/BaseTrial.cpython-35.pyc
+Dojo_OOP_Example/__pycache__/CharacterTrial.cpython-35.pyc
+Dojo_OOP_Example/__pycache__/NumberTrial.cpython-35.pyc
+Dojo_OOP_Example/__pycache__/Paradigm.cpython-35.pyc
