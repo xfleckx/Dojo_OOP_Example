@@ -2,7 +2,7 @@ from BaseTrial import BaseTrial
 from NumberTrial import NumberTrial
 from CharacterTrial import CharacterTrial
 
-class Paradigm(object):
+class Paradigm:
     """A example implementation of a paradigm context"""
     def __init__(self):
         """the optional constructor of our paradigm implementation"""

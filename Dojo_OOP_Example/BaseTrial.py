@@ -1,6 +1,6 @@
 from random import randint
 
-class BaseTrial(object):
+class BaseTrial(object): # (compatible to Python 2.7)
     """A base class defines the common structure and behaviour of \
     a family of classes"""
    

@@ -14,7 +14,7 @@ if __name__ == "__main__":
     #paradigmInstance = Paradigm() # create an instance
     paradigmInstance = AlternativeParadigm(OnUserInputRequired) # an example for slightly different paradigm implementation
     paradigmInstance.setup(DEMO_TRIAL_CONFIG)
-
+    
     userInput = None
     while userInput != START_PARADIGM:
         userInput = input("Press s to start the paradigm\n>") 
