@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dojo_OOP_Example", "Dojo_OOP_Example\Dojo_OOP_Example.pyproj", "{BC1DA361-912D-47DA-9D0B-D4F3B20D33E4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cocos2DExperiments", "Cocos2DExperiments\Cocos2DExperiments.pyproj", "{0EB81EFF-CA31-44C5-A3DD-A4D01B7FA59B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyGletDemo", "PyGletDemo\PyGletDemo.pyproj", "{3913EB72-EE24-4BE6-A5F3-A3425A51D5C1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyProcessingExo", "PyProcessingExo\PyProcessingExo.pyproj", "{DD97A20E-EC93-421B-83C3-3A96FAE0747B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +19,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{BC1DA361-912D-47DA-9D0B-D4F3B20D33E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BC1DA361-912D-47DA-9D0B-D4F3B20D33E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB81EFF-CA31-44C5-A3DD-A4D01B7FA59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB81EFF-CA31-44C5-A3DD-A4D01B7FA59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3913EB72-EE24-4BE6-A5F3-A3425A51D5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3913EB72-EE24-4BE6-A5F3-A3425A51D5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD97A20E-EC93-421B-83C3-3A96FAE0747B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD97A20E-EC93-421B-83C3-3A96FAE0747B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
