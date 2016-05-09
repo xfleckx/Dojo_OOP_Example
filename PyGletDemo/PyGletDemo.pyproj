@@ -25,6 +25,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="LogView.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PyGletDemo.py" />
     <Compile Include="tkGUI.py">
       <SubType>Code</SubType>

@@ -6,11 +6,9 @@ app = Application()
 
 
 window = pyglet.window.Window()
-
+logView = logView();
 @window.event
 def on_draw():
-
-    print("fizz")
     window.clear()
 
 def on_update(time):
