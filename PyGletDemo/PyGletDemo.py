@@ -3,7 +3,7 @@ import tkinter as tk
 from tkGUI import Application
 
 app = Application()
-
+root = tk.Tk()
 
 window = pyglet.window.Window()
 logView = logView();
@@ -16,5 +16,7 @@ def on_update(time):
     app.update()
 
 if __name__ == '__main__':
-    pyglet.clock.schedule(on_update)
-    pyglet.app.run()
+    #pyglet.clock.schedule(on_update)
+    #pyglet.app.run()
+    root.after(
+    root.mainloop()
